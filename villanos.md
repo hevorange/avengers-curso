@@ -2,3 +2,4 @@
 
 * Doomsday
 * joker
+* Dr. Herrera
